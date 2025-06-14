@@ -4,7 +4,7 @@ This Power BI dashboard provides a data-driven exploration of mental health patt
 
 ## 📁 Dataset
 
-- *Source*: Mental Health Survey Dataset (292k+ responses)
+- *Source*: Mental Health Survey Dataset (292k+ responses). https://www.kaggle.com/datasets/bhavikjikadara/mental-health-dataset
 - *Format*: CSV
 - *Columns Include*: Gender, Country, Occupation, Family History, Treatment, Stress Indicators, Coping Mechanisms, and more.
 
@@ -33,7 +33,6 @@ This Power BI dashboard provides a data-driven exploration of mental health patt
 
 ## 📸 Dashboard Preview
 ![https://github.com/Vicatoon/Mental-health-Analytics-Dashboard/blob/main/Mental%20Health%20Dashboard.jpg]
-![Mental Health Dashboard]
 
 
 ---
