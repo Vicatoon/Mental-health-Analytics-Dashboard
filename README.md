@@ -32,7 +32,7 @@ This Power BI dashboard provides a data-driven exploration of mental health patt
 ---
 
 ## 📸 Dashboard Preview
-![]
+![https://github.com/Vicatoon/Mental-health-Analytics-Dashboard/blob/main/Mental%20Health%20Dashboard.jpg]
 
 
 ---
